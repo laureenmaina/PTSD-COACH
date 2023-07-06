@@ -1,0 +1,142 @@
+<resources>
+    <string name="app_name">PTSDCOACHINGAPP</string>
+
+    //alone
+    <string name="alone7_xml">* Volunteer your time with a local charity</string>
+    <string name="alone6_xml">* If you are religious, attend a religious service or group meeting</string>
+    <string name="alone5_xml">* Call or text a friend you haven\'t heard from in a while</string>
+    <string name="alone4_xml">To start to connect with others, consider one of the following:</string>
+    <string name="alone3_xml">If you are feeling lonely or on your own, it\'s very important for you to try to reach out to others and try to find others who can connect with and spend time with.</string>
+    <string name="alone2_xml">First it is important to recognize that living through a traumatic experience can often lead to avoiding other people-whether it\'s because you\'re uncertain or fearful about how you\'ll act around them ,or you just want to be alone.</string>
+    <string name="alone1_xml">Everyone feels this way sometimes, and it\'s especially common for those who have traumatic experiences.It can sometimes be hard to relate to others,or to feel understood by them. You might even feel annoyed or irritable when you\'re around others</string>
+    <string name="alone_xml">Feeling alone or isolated is a common experience.</string>
+
+    //trust
+    <string name="trust_one">Having someone you can trust and open up to is a gift. It does not mean that person has to be perfect just that you feel comfortable enough to let them in on your experience of the world and know that it\'s okay to be yourself.</string>
+    <string name="trust_two">Take a moment to appreciate having someone you can trust.Research has shown that the act of expressing appreciation or gratitude to another person can really help lift your own spirits. Is there someone in your life that you can call or text out of the blue?</string>
+    <string name="trust_three">Just engaging in a conversation with someone you can trust can often be very helpful.Make a short call or visit to a friend or loved one, and if you\'re feeling adventurous,open up to them a bit more than you usually do.</string>
+
+
+    //quiz5
+    <string name="problems_related_to_ptsd">Problems related to PTSD</string>
+    <string name="problem_quiz">Some other problems are more common for people with PTSD.These include:</string>
+    <string name="problem_quiz1">* depression</string>
+    <string name="problem_quiz2">* panic attacks</string>
+    <string name="problem_quiz3">* alcohol and substance use problems</string>
+    <string name="problem_quiz4">* increased risk of medical problems</string>
+
+    //quiz4
+    <string name="time_quiz">PTSD symptoms usually appear soon after a traumatic experience ,however,in some cases symptoms do not appear for months or even years after the trauma.For some people who experience symptoms early, these symptoms go away on their own.For others,these symptoms can last for many years, especially if they do not seek help.</string>
+    <string name="time_quiz2">How long PTSD lasts also depends on whether effective treatment is received.</string>
+
+    //quiz3
+    <string name="how_quiz">After trauma,it iss normal to be in shock,have painful memories,and be upset by reminders.Trauma can also change how people think about themselves,others,and the world to more extreme ideas like \'nowhere is safe\' or \'no one can be trusted.\'</string>
+    <string name="how_quiz2">For most,these reactions will lessen over time.But for some, these reactions continue and can be severe enough to disturbed everyday life.</string>
+
+    //quiz2
+    <string name="facts_quiz">No matter how long you have lived with PTSD, there are treatments that can help.</string>
+
+    //quiz1
+    <string name="what_quiz">Post traumatic Stress Disorder (PTSD) is caused by witnessing,experiencing,or learning about someone close to you who experienced traumatic events (such as actual or threatened death,serious injury, or sexual violence).</string>
+    <string name="what_quiz2">The good news is that PTSD is treatable</string>
+    <string name="what_quiz3">PTSD includes 4 types of symptoms:</string>
+    <string name="what_quiz4">1. Re-experiencing or reliving the trauma, such as:</string>
+    <string name="what_quiz5">*  Disturbing memories or nightmares</string>
+    <string name="what_quiz6">*  Feeling or acting like the trauma is happening again (flashbacks)</string>
+    <string name="what_quiz7">*  Becoming very upset when reminded of the trauma</string>
+    <string name="what_quiz8">2. Persistent avoidance such as : </string>
+    <string name="what_quiz9">* Avoiding memories about the trauma</string>
+    <string name="what_quiz10">* Avoiding thoughts or memories closely associated with traumatic events.</string>
+    <string name="what_quiz11">3. Negative thoughts and moods</string>
+    <string name="what_quiz12">* Self blame for trauma</string>
+    <string name="what_quiz13">* Felling detached or isolating from other.</string>
+    <string name="what_quiz14">* Trouble feeling positive emotions like happiness and love.</string>
+    <string name="what_quiz15">4.More on-edge and reactive,such as:</string>
+    <string name="what_quiz16">* Feeling on guard</string>
+    <string name="what_quiz17">* Startling easily</string>
+    <string name="what_quiz18">* Problem concentrating</string>
+
+    //quiz6
+    <string name="do_quiz">If you think you have PTSD, talk with your doctor or schedule an evaluation with a mental health professional.
+    Also, remember that some people may develop other problems like depression or substance use after a trauma</string>
+    <string name="do_quiz1">If your trauma was less than a month or two ago and you are not in too much distress or having problems function in everyday
+    life,then you may want to see if your symptoms get better on their own.</string>
+    <string name="do_quiz2">If you still don`t feel well after one or two months,seek professional help</string>
+
+    //quiz7
+    <string name="why_quiz">*Relax</string>
+    <string name="why_quiz1">*Identify</string>
+    <string name="why_quiz2">*Decide</string>
+    <string name="why_quiz3">First,do something to help yourself relax (such as take some deep breaths,get a drink of water,or remind yourself that you can handle it."</string>
+    <string name="why_quiz4">Second,identify what the trigger is then identify how now its different than then.</string>
+    <string name="why_quiz5">Third,decide what to do.</string>
+
+    //embarrassed
+    <string name="emb_1">Some people feel ashamed to need help or ask for help. But think about this:</string>
+    <string name="emb_2">We are not alone in this world.People are here to help you now.</string>
+    <string name="emb_3">Did you know that people who accept help after a stressful time do better than those who don/t get support? </string>
+    <string name="emb_4">Seeking counselling does not mean you are non-functional </string>
+    <string name="emb_5">If you dont feel better and it has been months or years,talking to a counselor may help so that problems do not become chronic or more severe </string>
+
+
+    //about
+    <string name="about1_xml">PTSD Coaching app is a mobile application for people with PostTraumatic Stress Disorder(PTSD) and those interested in learning more about it.</string>
+    <string name="about2_xml">This application provides :</string>
+    <string name="about3_xml">* Education about PTSD.</string>
+    <string name="about4_xml">* A direct connection to crisis support.</string>
+    <string name="about5_xml">* Information about professional treatment.</string>
+    <string name="about6_xml">* Tools for managing distress associated with Post traumatic Stress.</string>
+    //alone
+    <string name="alone8_xml">* Join a meetup group around a hobby or interest of yours</string>
+    <string name="alone9_xml">* Write a letter or send an email to someone you care about</string>
+    <string name="alone10_xml">* Try to do something nice to someone</string>
+
+    //need
+    <string name="need1_xml">It\'s normal for people who have experienced trauma to have some challenges adjusting afterwards.Sometimes these challenges are severe, or last more than a few months.</string>
+    <string name="need2_xml">Whether you need help can only be determined by you and a trained healthcare professional.</string>
+    <string name="need3_xml">Remember, you don\'t have to wait for an emergency to speak to someone.</string>
+    <string name="need4_xml">The following problems are common after a trauma and can signal a need for more support:</string>
+    <string name="need5_xml">* Depression-feeling sad,down,or blue most of the time</string>
+    <string name="need6_xml">* Startling easily in response to loud or unexpected noises</string>
+    <string name="need7_xml">* Easily angered, aggressive/violet behavior</string>
+    <string name="need8_xml">* Reckless or aggressive driving</string>
+    <string name="need9_xml">* Having thoughts about suicide , or of hurting or killing someone else</string>
+    <string name="need10_xml">* Isolating oneself,withdrawal from friends and family</string>
+
+    //grow
+    <string name="grow1_xml">Having healthy, satisfying support from other people in your life is important to having a good quality of life. If you\'ve already got at least some support, you\'re doing well.</string>
+    <string name="grow2_xml">Having satisfying relationships with others requires some effort-showing those you care about that you have time for them and are interested in them.</string>
+    <string name="grow3_xml">Taking the time to invest in your existing relationships can pay dividends- you\'ll probably feel better, and you\'ll strengthen your connections with people you already care about</string>
+    <string name="grow4_xml">To grow your existing support,try one of the following:</string>
+    <string name="grow5_xml">* Call a friend and invite them to do something with you this week</string>
+    <string name="grow6_xml">* Take the time to do something with a friend or family member that you know they enjoy,even if you don/t enjoy.</string>
+    <string name="grow7_xml">* Ask a family member to spend some quality time with you doing something that you both enjoy.</string>
+
+    //seek
+    <string name="seek1_xml">Some trauma survivors seek counselling because they :</string>
+    <string name="seek2_xml">* Have trouble with work and relationships</string>
+    <string name="seek3_xml">* Avoid reminders but find memories around every corner</string>
+    <string name="seek4_xml">* Feel very nervous or angry</string>
+    <string name="seek5_xml">* Have trouble sleeping</string>
+    <string name="seek6_xml">While these symptoms are common in the first month or two after a trauma,if you don/t feel better soon,then you should think about talking to a counselor.</string>
+    <string name="seek7_xml">Also, some people find that:</string>
+    <string name="seek8_xml">* Loved ones mean well but can/t help the way they need them to</string>
+    <string name="seek9_xml">* Loved ones are far away and unavailable</string>
+    <string name="seek10_xml">* The things they want to talk about feel too sensitive or private</string>
+    <string name="seek11_xml">In these circumstances, talking to an expert can really help.</string>
+
+    //who
+    <string name="who1_xml">There are many experts who can help you if you seek care.</string>
+    <string name="who2_xml">You can read more here about the roles and duties of primary care physicians, social workers,psychologists,psychiatrists, and pastoral counselors/chaplains.</string>
+
+    //embarrassed
+    <string name="emb1_xml">Some people feel ashamed to need help or ask for help.But think about this:</string>
+    <string name="emb2_xml">* We are not alone in this world,people are here to help you.</string>
+    <string name="emb3_xml">* Did you know that people who accept help after a stressful time do better than those who don/t get support?</string>
+    <string name="emb4_xml">* Seeking counselling does not mean you are non-functional.</string>
+    <string name="emb5_xml">* Counselling is not for weak or broken people.It takes courage to ask for help</string>
+    <string name="emb6_xml">* Talk to a counselor if you don/t feel better in months so that the problem does not become chronic</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
